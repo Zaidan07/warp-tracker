@@ -29,7 +29,7 @@ export default function GameSelector() {
   return (
     <div className="flex flex-col gap-4 w-full h-auto justify-center items-center">
       <h1 className="text-[60px] text-white font-semibold uppercase italic">
-        Wrap Tracker
+        Warp Tracker
       </h1>
       <div className="flex gap-[10px]">
         {games.map((game) =>
